@@ -1,4 +1,4 @@
-var ctx = document.getElementById("chart").getContext("2d");
+var ctx = document.getElementById("chartTesting").getContext("2d");
 var data = {
     labels: ["Jekyll", "Hugo", "Wintersmith", ],
     datasets: [
