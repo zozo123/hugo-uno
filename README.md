@@ -13,6 +13,7 @@ Configuration
 
 To take full advantage of the features in this theme you can add variables to your site config file, the following is the example config from the example site:
 ```
+
 languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
