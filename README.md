@@ -84,6 +84,7 @@ $(function(){
       maintainAspectRatio: false,
     }
   );
+ })
 ```
 A running example can be found in my comparison between [Jekyll, Hugo and Winthersmith](http://fredrikloch.me/post/2014-08-12-Jekyll-and-its-alternatives-from-a-site-generation-point-of-view/)
 Gallery
