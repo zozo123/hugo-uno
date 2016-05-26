@@ -1,5 +1,5 @@
-hugo-uno
-========
+hugo-uno - customized by ZoZo 
+=============================
 
 A responsive hugo theme with awesome font's, charts and light-box galleries, the theme is based on [Uno](https://github.com/daleanthony/Uno) for ghost.
 A example site is available at [hugouno.fredrikloch.me](http://hugouno.fredrikloch.me)
